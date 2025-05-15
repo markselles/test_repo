@@ -1,1 +1,1 @@
-hi this is start of a readme file!!
+hi this is start of a readme file!! And some info is here.
